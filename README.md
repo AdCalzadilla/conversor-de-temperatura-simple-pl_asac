@@ -19,7 +19,10 @@
 
 ### Despliegue en github.io
 
-* [http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-pl_asac/](http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-pl_asac/)
+* Repositorio de la organización:
+ * [http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-pl_asac/](http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-pl_asac/)
+* Repositorio de usuario:
+ * [https://github.com/AdCalzadilla/conversor-de-temperatura-simple-pl_asac/](https://github.com/AdCalzadilla/conversor-de-temperatura-simple-pl_asac)
 
 ### Enlace a la práctica en el campus
 
